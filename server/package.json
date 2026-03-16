@@ -1,0 +1,18 @@
+{
+  "name": "servicehub-server",
+  "version": "1.0.0",
+  "description": "ServiceHub - Local Service Finder Backend (Phased)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "server3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "server9.0.3",
+    "mongoose": "server9.3.0"
+  }
+}
