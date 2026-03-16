@@ -1,7 +1,5 @@
 # nearfix
 
-
-# full-stack-hackathon
 # Local Service Finder (Full Stack Application)
 
 A full stack web application that helps users find and book trusted local service providers such as electricians, plumbers, tutors, and cleaners.
