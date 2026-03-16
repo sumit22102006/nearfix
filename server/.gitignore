@@ -4,4 +4,3 @@ config
 controllers
 middleware
 models
-routes
