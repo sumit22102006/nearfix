@@ -1,4 +1,3 @@
-# nearfix
 
 # Local Service Finder (Full Stack Application)
 
