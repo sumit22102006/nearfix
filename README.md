@@ -9,7 +9,7 @@ This platform also allows service providers to create profiles and manage their 
 ## 🌐 Landing Page Preview
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/1200/crop/800/https://nearfix-rust.vercel.app/" alt="Landing Page Preview" />
+  <img src="" />
 </p>
 
 ---
