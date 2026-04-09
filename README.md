@@ -9,7 +9,7 @@ This platform also allows service providers to create profiles and manage their 
 ## 🌐 Landing Page Preview
 
 <p align="center">
-  <img src="" />
+  <img src="https://res.cloudinary.com/dqnbmapcl/image/upload/q_auto/f_auto/v1775722847/Screenshot_2026-04-09_134938_clpj1d.png" />
 </p>
 
 ---
