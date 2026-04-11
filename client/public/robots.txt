@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:https://nearfix-rust.vercel.app/sitemap.xml

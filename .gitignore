@@ -1,0 +1,13 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+.env
+client/.env
+server/.env
+dist/
+client/dist/
+*.log
+build_err.txt
+build_err_utf8.txt
+.DS_Store
+.vscode/
